@@ -20,7 +20,7 @@ For this project please use the following color palette:
 
 #ffffff - white
 
-https://colorhunt.co/palette/0a26471442722052952c74b3 with white color
+https://colorhunt.co/palette/0a26471442722052952c74b3 + white color
 
 ### Fonts
 
@@ -33,5 +33,11 @@ For this project please use the following fonts:
 For this project please use the following icons:
 
 - [Font Awesome](https://fontawesome.com/)
+
+### Prototype
+
+You can view the prototype of the project here: [Canva file to view](https://www.canva.com/design/DAFXJ9EbfQ4/GyzuNZSCAEhsQZ-XDn_2vw/view?utm_content=DAFXJ9EbfQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+You can also download the prototype from the `content` folder - `prototype.pdf` file.
 
 ### Texts
