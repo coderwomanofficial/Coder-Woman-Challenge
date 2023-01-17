@@ -72,12 +72,12 @@ body {
 
 a {
   text-decoration: none;
-  color: #2c74b3;
+  color: #ffffff;
   transition: color 0.3s ease-in-out;
 }
 
 a:hover {
-  color: #205295;
+  color: #2c74b3;
 }
 
 a:active {
@@ -269,6 +269,11 @@ button:focus {
 
 .footer .social-media__link:hover {
   background-color: #2c74b3;
+}
+
+.footer__link {
+  text-decoration: underline;
+  text-decoration-color: #2c74b3;
 }
 /***********/
 /* Hero section */
