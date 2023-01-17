@@ -309,10 +309,12 @@ button:focus {
 .hero__image {
   display: flex;
   justify-content: center;
+  min-width: 40rem;
 }
 
 .hero__image img {
   width: 100%;
+  height: auto;
   border-radius: 12px;
   border: 2px solid #2c74b3;
   object-fit: cover;
@@ -423,6 +425,7 @@ button:focus {
 
 .projects__project img {
   width: 100%;
+  height: auto;
   object-fit: cover;
 }
 
