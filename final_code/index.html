@@ -55,14 +55,32 @@
             <a class="button" href="#download">Contact me</a>
           </div>
           <div class="hero__image">
-            <img src="images/hero-photo.jpg" alt="Jane Doe" />
+            <picture>
+              <source srcset="images/hero-photo.webp" type="image/webp" />
+              <source srcset="images/hero-photo.png" type="image/png" />
+
+              <img
+                src="images/hero-photo.png"
+                class="hero-img"
+                alt="Woman smiling"
+              />
+            </picture>
           </div>
         </div>
       </section>
       <section class="about" id="about">
         <div class="about__container">
           <div class="about__image">
-            <img src="images/it-girl.png" alt="Jane Doe" />
+            <picture>
+              <source srcset="images/it-girl.webp" type="image/webp" />
+              <source srcset="images/it-girl.png" type="image/png" />
+
+              <img
+                src="images/it-girl.png"
+                class="hero-img"
+                alt="Woman smiling and sitting on a chair with a laptop"
+              />
+            </picture>
           </div>
           <div class="about__content">
             <div class="about__content-heading">
@@ -82,6 +100,7 @@
                   class="social-media__link"
                   href="https://www.twitter.com/"
                   target="_blank"
+                  rel="norefferer"
                 >
                   <img
                     class="social-media__image"
@@ -93,6 +112,7 @@
                   class="social-media__link"
                   href="https://www.youtube.com/"
                   target="_blank"
+                  rel="norefferer"
                 >
                   <img
                     class="social-media__image"
@@ -104,6 +124,7 @@
                   class="social-media__link"
                   href="https://www.github.com/"
                   target="_blank"
+                  rel="norefferer"
                 >
                   <img
                     class="social-media__image"
@@ -124,37 +145,109 @@
           <div class="projects__content">
             <div class="projects__project">
               <a href="https://github.com" target="_blank" rel="noreferrer">
-                <img src="images/project_cover.jpg" alt="project 1" />
+                <picture>
+                  <source
+                    srcset="images/project_cover.webp"
+                    type="image/webp"
+                  />
+                  <source srcset="images/project_cover.png" type="image/png" />
+
+                  <img
+                    src="images/project_cover.png"
+                    class="hero-img"
+                    alt="Laptop with a website"
+                  />
+                </picture>
                 <h3>Project 1</h3>
               </a>
             </div>
             <div class="projects__project">
               <a href="https://github.com" target="_blank" rel="noreferrer">
-                <img src="images/project_cover.jpg" alt="project 2" />
+                <picture>
+                  <source
+                    srcset="images/project_cover.webp"
+                    type="image/webp"
+                  />
+                  <source srcset="images/project_cover.png" type="image/png" />
+
+                  <img
+                    src="images/project_cover.png"
+                    class="hero-img"
+                    alt="Laptop with a website"
+                  />
+                </picture>
                 <h3>Project 2</h3>
               </a>
             </div>
             <div class="projects__project">
               <a href="https://github.com" target="_blank" rel="noreferrer">
-                <img src="images/project_cover.jpg" alt="project 3" />
+                <picture>
+                  <source
+                    srcset="images/project_cover.webp"
+                    type="image/webp"
+                  />
+                  <source srcset="images/project_cover.png" type="image/png" />
+
+                  <img
+                    src="images/project_cover.png"
+                    class="hero-img"
+                    alt="Laptop with a website"
+                  />
+                </picture>
                 <h3>Project 3</h3>
               </a>
             </div>
             <div class="projects__project">
               <a href="https://github.com" target="_blank" rel="noreferrer">
-                <img src="images/project_cover.jpg" alt="project 4" />
+                <picture>
+                  <source
+                    srcset="images/project_cover.webp"
+                    type="image/webp"
+                  />
+                  <source srcset="images/project_cover.png" type="image/png" />
+
+                  <img
+                    src="images/project_cover.png"
+                    class="hero-img"
+                    alt="Laptop with a website"
+                  />
+                </picture>
                 <h3>Project 4</h3>
               </a>
             </div>
             <div class="projects__project">
               <a href="https://github.com" target="_blank" rel="noreferrer">
-                <img src="images/project_cover.jpg" alt="project 5" />
+                <picture>
+                  <source
+                    srcset="images/project_cover.webp"
+                    type="image/webp"
+                  />
+                  <source srcset="images/project_cover.png" type="image/png" />
+
+                  <img
+                    src="images/project_cover.png"
+                    class="hero-img"
+                    alt="Laptop with a website"
+                  />
+                </picture>
                 <h3>Project 5</h3>
               </a>
             </div>
             <div class="projects__project">
               <a href="https://github.com" target="_blank" rel="noreferrer">
-                <img src="images/project_cover.jpg" alt="project 6" />
+                <picture>
+                  <source
+                    srcset="images/project_cover.webp"
+                    type="image/webp"
+                  />
+                  <source srcset="images/project_cover.png" type="image/png" />
+
+                  <img
+                    src="images/project_cover.png"
+                    class="hero-img"
+                    alt="Laptop with a website"
+                  />
+                </picture>
                 <h3>Project 6</h3>
               </a>
             </div>
@@ -237,7 +330,10 @@
             <p class="contact-info">Phone: <a href="tel:">666-6666-666</a></p>
             <p class="contact-info">
               Address:
-              <a href="https://goo.gl/maps/6Z9Z9Z9Z9Z9Z9Z9Z9" target="_blank"
+              <a
+                href="https://goo.gl/maps/6Z9Z9Z9Z9Z9Z9Z9Z9"
+                target="_blank"
+                rel="noreferrer"
                 >333 Fifth Avenue, New York</a
               >
             </p>
@@ -247,6 +343,7 @@
                 class="social-media__link"
                 href="https://www.twitter.com/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
                   class="social-media__image"
@@ -258,6 +355,7 @@
                 class="social-media__link"
                 href="https://www.youtube.com/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
                   class="social-media__image"
@@ -269,6 +367,7 @@
                 class="social-media__link"
                 href="https://www.github.com/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
                   class="social-media__image"
@@ -288,6 +387,7 @@
             class="social-media__link"
             href="https://www.twitter.com/"
             target="_blank"
+            rel="norefferer"
           >
             <img
               class="social-media__image"
@@ -299,6 +399,7 @@
             class="social-media__link"
             href="https://www.youtube.com/"
             target="_blank"
+            rel="norefferer"
           >
             <img
               class="social-media__image"
@@ -310,6 +411,7 @@
             class="social-media__link"
             href="https://www.github.com/"
             target="_blank"
+            rel="norefferer"
           >
             <img
               class="social-media__image"
@@ -323,6 +425,7 @@
           <a
             href="https://www.github.com/agakadela"
             target="_blank"
+            rel="norefferer"
             class="footer__link"
             >Jane Doe</a
           >

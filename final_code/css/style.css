@@ -309,7 +309,6 @@ button:focus {
 .hero__image {
   display: flex;
   justify-content: center;
-  min-height: 45rem;
 }
 
 .hero__image img {
@@ -349,6 +348,7 @@ button:focus {
 
 .about__image img {
   width: 100%;
+  height: 100%;
   object-fit: cover;
 }
 
