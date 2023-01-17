@@ -272,9 +272,9 @@ button:focus {
 }
 
 .footer__link {
-  text-decoration: underline;
-  text-decoration-color: #2c74b3;
+  border-bottom: 1px dotted #2c74b3;
 }
+
 /***********/
 /* Hero section */
 /***********/
