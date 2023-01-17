@@ -188,7 +188,6 @@ button:focus {
 .header--on-scroll {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   height: 6rem;
-  background-color: #205295;
 }
 
 .hamburger {
