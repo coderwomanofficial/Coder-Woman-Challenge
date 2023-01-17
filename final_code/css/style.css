@@ -174,8 +174,13 @@ button:focus {
   z-index: 999;
 }
 
+.header__logo {
+  line-height: 1rem;
+}
+
 .header__logo img {
   width: 13rem;
+  height: 3.25rem;
 }
 
 .header__nav-list {
