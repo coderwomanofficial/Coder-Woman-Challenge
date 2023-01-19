@@ -28,6 +28,8 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 
 👉 [Download BONUS materials]() (coming soon)
 
+👉 [Join our Coder Woman Community on Discord](https://discord.com/invite/MPxwsVkPUc)
+
 ## Chapter 2: Web Development - from zero to hero
 
 - Check the submarine cable map: https://www.submarinecablemap.com/
