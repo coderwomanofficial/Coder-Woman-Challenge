@@ -66,7 +66,7 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 ### 💬 Fonts:
 
 1. [fonts.google.com](https://fonts.google.com/)
-2. [fonts.adobe.com](https://fonts.adobe.com/)
+2. [fontsquirrel.com](https://www.fontsquirrel.com/)
 3. [dafont.com](https://www.dafont.com/)
 4. [fontspace.com](https://www.fontspace.com/)
 
@@ -110,6 +110,12 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Sublime Text](https://www.sublimetext.com/)
 3. [Brackets](http://brackets.io/)
+
+[📝 How to install Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
+
+[📝 How to install Sublime Text](https://docs.sublimetext.io/guide/getting-started/installation.html#portable-or-not-portable)
+
+[📝 How to install Brackets](https://github.com/brackets-cont/brackets/blob/master/README.md)
 
 ### 🔧 Visual Studio Code extensions:
 
