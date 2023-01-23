@@ -14,6 +14,9 @@ All the materials you need to complete the Coder Woman Coding Challenge.
     - [📝 Lorem ipsum generator (for placeholder text):](#-lorem-ipsum-generator-for-placeholder-text)
     - [📸 Free photos:](#-free-photos)
     - [♥︎ Free icons libraries:](#︎-free-icons-libraries)
+    - [How to copy website parts from the Internet:](#how-to-copy-website-parts-from-the-internet)
+    - [How to use a whiteboard in Canva:](#how-to-use-a-whiteboard-in-canva)
+    - [How to prepare prototypes in Canva:](#how-to-prepare-prototypes-in-canva)
   - [Chapter 4: Setting up the coding environment](#chapter-4-setting-up-the-coding-environment)
     - [⚙️ Code editors:](#️-code-editors)
     - [🔧 Visual Studio Code extensions:](#-visual-studio-code-extensions)
@@ -102,6 +105,18 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 3. [Bootstrap Icons](https://icons.getbootstrap.com/)
 4. [Ionicons](https://ionicons.com/)
 5. [css.gg](https://css.gg/)
+
+### How to copy website parts from the Internet:
+
+[📝 How to copy website parts from the Internet](https://www.wikihow.com/Copy-a-Web-Page-Screen)
+
+### How to use a whiteboard in Canva:
+
+[📝 How to use a whiteboard in Canva](https://www.canva.com/online-whiteboard/)
+
+### How to prepare prototypes in Canva:
+
+[📝 How to prepare prototypes in Canva](https://www.canva.com/prototypes/)
 
 ## Chapter 4: Setting up the coding environment
 
