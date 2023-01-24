@@ -27,9 +27,11 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 
 👉 [Download The Coder Woman Manifesto](/coder_woman_manifesto.png)
 
-👉 [Download the course materials]() (coming soon)
+👉 [Download the course materials](/course_materials.zip)
 
-👉 [Download BONUS materials]() (coming soon)
+🎁 [Download the card to collect password letters and numbers](/bonus_card.pdf) (you'll find it inside the course materials too)
+
+🎁 [Get your BONUS here](https://challenge.coderwoman.com/bonus) (remember - you need to collect all the letters and numbers from the course materials to get the password)
 
 👉 [Join our Coder Woman Community on Discord](https://discord.com/invite/MPxwsVkPUc)
 
