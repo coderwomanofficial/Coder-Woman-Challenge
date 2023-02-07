@@ -40,15 +40,16 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 
 - Check the submarine cable map: https://www.submarinecablemap.com/
 - Take a look at the first website ever: http://info.cern.ch/hypertext/WWW/TheProject.html
-- Web developer salary: https://www.indeed.com/career/web-developer/salaries
-- Front-end developer salary: https://www.indeed.com/career/front-end-developer/salaries
-- Full-stack developer salary: https://www.indeed.com/career/full-stack-developer/salaries
-- Back-end developer salary: https://www.indeed.com/career/back-end-developer/salaries
 
 ### Modern websites examples:
 
 - [Cyclemoon](https://cyclemoon.com/)
 - [Nike React](https://www.nike-react.com/)
+
+- Web developer salary: https://www.indeed.com/career/web-developer/salaries
+- Front-end developer salary: https://www.indeed.com/career/front-end-developer/salaries
+- Full-stack developer salary: https://www.indeed.com/career/full-stack-developer/salaries
+- Back-end developer salary: https://www.indeed.com/career/back-end-developer/salaries
 
 ## Chapter 3: Project planning
 
