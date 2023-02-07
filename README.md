@@ -43,8 +43,8 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 
 ### Modern websites examples:
 
-- [Cyclemoon](https://cyclemoon.com/)
-- [Nike React](https://www.nike-react.com/)
+1. [Cyclemoon](https://cyclemoon.com/)
+2. [Nike React](https://www.nike-react.com/)
 
 - Web developer salary: https://www.indeed.com/career/web-developer/salaries
 - Front-end developer salary: https://www.indeed.com/career/front-end-developer/salaries
