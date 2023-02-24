@@ -5,7 +5,6 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 - [The Coder Woman Coding Challenge](#the-coder-woman-coding-challenge)
   - [Chapter 1: Before we start](#chapter-1-before-we-start)
   - [Chapter 2: Web Development - from zero to hero](#chapter-2-web-development---from-zero-to-hero)
-    - [Modern websites examples:](#modern-websites-examples)
   - [Chapter 3: Project planning](#chapter-3-project-planning)
     - [💻 Website design inspiration:](#-website-design-inspiration)
     - [⚙️ Tools to make great sitemaps and sketches:](#️-tools-to-make-great-sitemaps-and-sketches)
@@ -40,11 +39,6 @@ All the materials you need to complete the Coder Woman Coding Challenge.
 
 - Check the submarine cable map: https://www.submarinecablemap.com/
 - Take a look at the first website ever: http://info.cern.ch/hypertext/WWW/TheProject.html
-
-### Modern websites examples:
-
-1. [Cyclemoon](https://cyclemoon.com/)
-2. [Nike React](https://www.nike-react.com/)
 
 - Web developer salary: https://www.indeed.com/career/web-developer/salaries
 - Front-end developer salary: https://www.indeed.com/career/front-end-developer/salaries
